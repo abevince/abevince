@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Vince! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+A Full-Stack JavaScript Developer based out of Manila, PH.
+
+Tools:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="HTML logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="HTML logo" width="40" height="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="HTML logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="HTML logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="HTML logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="HTML logo" width="40" height="40">
 <!--
 **abevince/abevince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
