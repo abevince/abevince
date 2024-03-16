@@ -9,7 +9,7 @@ Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="HTML logo" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="HTML logo" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="HTML logo" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="HTML logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="HTML logo" width="40" height="40">
 <!--
 **abevince/abevince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
